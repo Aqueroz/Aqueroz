@@ -3,6 +3,12 @@
 Ainda estou começando, sou formado em Analise e Desenvlvimento de Sistema.<br>
 Participei de alguns bootcamps sobre desenvolvimento web, buscando sempre me aprimorar e seguir nessa carreira de desenvolvedor.
 
+### contatos
+<div>
+  <a href = "mailto:caiosd.dev@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/aqueroz" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+</div>
+
 ### Linguagens e tecnologias que uso:
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="40" height="40" />
