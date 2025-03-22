@@ -1,6 +1,6 @@
 # Bem vindo ao meu repositório do GitHub
 ## Me chamo Caio, Desenvolvedor front-end/web
-Ainda estou começando, sou formado em Analise e Desenvolvimento de Sistema.<br>
+Ainda estou começando, sou formado em Análise e Desenvolvimento de Sistema.<br>
 Participei de alguns bootcamps sobre desenvolvimento web, buscando sempre me aprimorar e seguir nessa carreira de desenvolvedor.
 
 ### contatos
